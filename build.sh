@@ -6,6 +6,8 @@ then
 	export GOPATH=$HOME/gopath
 fi
 
+set -e
+
 GIT_DEPTH=10
 GIT_BRANCH=master
 GIT_REPO="github.com/codeskyblue/forego"
@@ -19,5 +21,6 @@ git clone --depth=$GIT_DEPTH --branch=$GIT_BRANCH \
 
 SELF_DIR=$(cd $(dirname $0); pwd)
 cd "$GIT_WORKDIR"
+go get -t -v ./...
 bash -x $SELF_DIR/gorelease.sh
 #bash -c "$(curl -fsSL http://bitly.com/gorelease)" gorelease
