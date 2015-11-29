@@ -9,11 +9,12 @@ fi
 set -e
 
 GIT_DEPTH=10
-GIT_BRANCH=master
-GIT_REPO="github.com/codeskyblue/forego"
+GIT_BRANCH=${GIT_BRANCH:-"master"}
+GITHUB_REPO=${GITHUB_REPO:-"codeskyblue/forego"}
+GIT_REPO="github.com/$GITHUB_REPO"
 
 GIT_WORKDIR="$GOPATH/src/$GIT_REPO"
-STORAGE_DIR="/gorelease/codeskyblue/forego/$GIT_BRANCH"
+STORAGE_DIR="/gorelease/$GITHUB_REPO/$GIT_BRANCH"
 export STORAGE_DIR
 
 git clone --depth=$GIT_DEPTH --branch=$GIT_BRANCH \

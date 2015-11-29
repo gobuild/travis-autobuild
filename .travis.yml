@@ -1,6 +1,16 @@
 language: go
 go:
   - 1.5
+env:
+  global:
+    - GIT_BRANCH=master
+    - GITHUB_REPO="codeskyblue/fswatch"
+notifications:
+  email:
+    recipients:
+      - codeskyblue@gmail.com
+    on_success: change
+    on_failure: always
 before_install:
 script:
   - bash -x build.sh
