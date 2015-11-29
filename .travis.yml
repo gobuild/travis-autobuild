@@ -4,7 +4,7 @@ go:
 env:
   global:
     - GIT_BRANCH=master
-    - GITHUB_REPO="codeskyblue/fswatch"
+    - GITHUB_REPO="tools/godep"
 notifications:
   email:
     recipients:
