@@ -1,1 +1,17 @@
-{"Language":"go","Go":["1.5"],"Env":{"Global":["GIT_BRANCH=master","GITHUB_REPO=tools/godep"]},"Notifications":{"Email":{"Recipients":["codeskyblue@gmail.com"],"OnSuccess":"always","OnFailure":"always"}},"BeforeInstall":null,"Script":["bash -x build.sh"],"AfterSuccess":null}
+language: go
+go:
+- "1.5"
+env:
+  global:
+  - GIT_BRANCH=master
+  - GITHUB_REPO=tools/godep
+notifications:
+  email:
+    recipients:
+    - codeskyblue@gmail.com
+    on_success: always
+    on_failure: always
+before_install: []
+script:
+- bash -x build.sh
+after_success: []
