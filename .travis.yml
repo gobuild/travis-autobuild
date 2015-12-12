@@ -3,8 +3,8 @@ go:
 - "1.5"
 env:
   global:
-  - GIT_BRANCH=master
-  - GITHUB_REPO=tools/godep
+  - GIT_BRANCH=
+  - GITHUB_REPO=codeskyblue/fswatch
 notifications:
   email:
     recipients:
