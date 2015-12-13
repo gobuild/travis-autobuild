@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=nsf/gocode
+  - GITHUB_REPO=tools/godep
 notifications:
   email:
     recipients:
