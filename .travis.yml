@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=swapagarwal/gotapper
+  - GITHUB_REPO=xyproto/algernon
 notifications:
   email:
     recipients:
