@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=maruel/panicparse
+  - GITHUB_REPO=songgao/colorgo
 notifications:
   email:
     recipients:
