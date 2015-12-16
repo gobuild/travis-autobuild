@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=ardanlabs/gotraining
+  - GITHUB_REPO=zx9597446/tcptest
 notifications:
   email:
     recipients:
