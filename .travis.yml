@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=linexjlin/numbermagic
+  - GITHUB_REPO=jehiah/json2csv
 notifications:
   email:
     recipients:
-    - ""
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
