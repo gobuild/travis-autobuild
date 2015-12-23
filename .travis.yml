@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=xojoc/typed
+  - GITHUB_REPO=lapingvino/jogurto
 notifications:
   email:
     recipients:
-    - xojoc@gmx.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
