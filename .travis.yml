@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=direnv/direnv
+  - GITHUB_REPO=laurent22/massren
 notifications:
   email:
     recipients:
