@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=titanous/heartbleeder
+  - GITHUB_REPO=leafsoar/cocosupdate
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - kltwjt@gmail.com
     on_success: always
     on_failure: always
 before_install: []
