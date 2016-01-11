@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=leafsoar/cocosupdate
+  - GITHUB_REPO=caixw/typing
 notifications:
   email:
     recipients:
-    - kltwjt@gmail.com
+    - xnotepad@gmail.com
     on_success: always
     on_failure: always
 before_install: []
