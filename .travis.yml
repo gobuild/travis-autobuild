@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=42wim/matterircd
+  - GITHUB_REPO=ConradIrwin/aws-name-server
 notifications:
   email:
     recipients:
