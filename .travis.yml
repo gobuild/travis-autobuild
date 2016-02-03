@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=ConradIrwin/aws-name-server
+  - GITHUB_REPO=rphillips/gosec
 notifications:
   email:
     recipients:
