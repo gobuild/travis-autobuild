@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jehiah/json2csv
+  - GITHUB_REPO=shvgn/spectool
 notifications:
   email:
     recipients:
