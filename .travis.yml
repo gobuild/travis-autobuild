@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=xiaoenai/easemob
+  - GITHUB_REPO=Squamato/CarControl
 notifications:
   email:
     recipients:
