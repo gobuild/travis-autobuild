@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=making/gozouroppu
+  - GITHUB_REPO=stormeyes/tiebaAssistant
 notifications:
   email:
     recipients:
-    - makingx@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
