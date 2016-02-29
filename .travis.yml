@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bitbandi/decred-proxy
+  - GITHUB_REPO=samarudge/jukebox
 notifications:
   email:
     recipients:
