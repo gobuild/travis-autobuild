@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=laily123/hj
+  - GITHUB_REPO=skynetservices/skydns
 notifications:
   email:
     recipients:
