@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gobuild-offcial/gotty
+  - GITHUB_REPO=gobuild-offcial/boom
 notifications:
   email:
     recipients:
