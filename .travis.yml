@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gobuild-offcial/gox
+  - GITHUB_REPO=gobuild-official/gohttpbench
 notifications:
   email:
     recipients:
