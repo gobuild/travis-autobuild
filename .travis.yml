@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gobuild-official/goimports
+  - GITHUB_REPO=gobuild-official/gocode
 notifications:
   email:
     recipients:
