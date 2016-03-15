@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=micln/mpm
+  - GITHUB_REPO=jorisroovers/memclient
 notifications:
   email:
     recipients:
