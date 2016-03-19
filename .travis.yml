@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=App1905/AbpDocument2Chinese
+  - GITHUB_REPO=whzecomjm/gor
 notifications:
   email:
     recipients:
-    - 707022599@163.com
+    - admin@whzecomjm.com
     on_success: always
     on_failure: always
 before_install: []
