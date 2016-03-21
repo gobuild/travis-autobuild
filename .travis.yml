@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=whzecomjm/gor
+  - GITHUB_REPO=jobezhou/gobuild
 notifications:
   email:
     recipients:
-    - admin@whzecomjm.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
