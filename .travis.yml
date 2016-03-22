@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jobezhou/gobuild
+  - GITHUB_REPO=lmars/packer-post-processor-vagrant-s3
 notifications:
   email:
     recipients:
