@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=widuu/staticserver
+  - GITHUB_REPO=lexteam/kabosu
 notifications:
   email:
     recipients:
