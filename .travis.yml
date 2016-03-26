@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=dinever/dingo
+  - GITHUB_REPO=widuu/staticserver
 notifications:
   email:
     recipients:
