@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=ekalinin/github-markdown-toc.go
+  - GITHUB_REPO=pasoft-share/github-markdown-toc.go
 notifications:
   email:
     recipients:
