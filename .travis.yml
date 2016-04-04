@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=pasoft-share/github-markdown-toc.go
+  - GITHUB_REPO=jesusrmoreno/uuid-service
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - jesus.r.moreno.16@dartmouth.edu
     on_success: always
     on_failure: always
 before_install: []
