@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jesusrmoreno/uuid-service
+  - GITHUB_REPO=codeskyblue/gosuv
 notifications:
   email:
     recipients:
-    - jesus.r.moreno.16@dartmouth.edu
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
