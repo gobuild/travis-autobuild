@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=blevesearch/hugoidx
+  - GITHUB_REPO=codeskyblue/gosuv
 notifications:
   email:
     recipients:
