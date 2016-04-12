@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Telcial/tpkg
+  - GITHUB_REPO=mvo5/godd
 notifications:
   email:
     recipients:
