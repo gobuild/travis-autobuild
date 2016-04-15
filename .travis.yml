@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=lanyitin/icdf-file-finder
+  - GITHUB_REPO=jehiah/json2csv
 notifications:
   email:
     recipients:
-    - lanyitin@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
