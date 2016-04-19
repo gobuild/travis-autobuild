@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=lxn/walk
+  - GITHUB_REPO=influxdata/influxdb
 notifications:
   email:
     recipients:
