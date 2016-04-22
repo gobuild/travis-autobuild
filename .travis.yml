@@ -1,10 +1,10 @@
 language: go
 go:
-- "1.5"
+- "1.6"
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Christophgockel/goony
+  - GITHUB_REPO=codeskyblue/gohttp
 notifications:
   email:
     recipients:
