@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bitly/oauth2_proxy
+  - GITHUB_REPO=bvp/gtvm
 notifications:
   email:
     recipients:
