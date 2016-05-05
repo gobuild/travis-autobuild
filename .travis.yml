@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=adnanh/webhook
+  - GITHUB_REPO=nats-io/gnatsd
 notifications:
   email:
     recipients:
