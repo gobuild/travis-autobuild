@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=qor/qor-example
+  - GITHUB_REPO=ory-am/hydra
 notifications:
   email:
     recipients:
