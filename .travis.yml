@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=OlegAndreych/adishe
+  - GITHUB_REPO=sdandroid/godns
 notifications:
   email:
     recipients:
