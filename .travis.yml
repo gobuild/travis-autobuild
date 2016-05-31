@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=dimiro1/ipe
+  - GITHUB_REPO=jiangrzh/codis
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - jiangrzh@gmail.com
     on_success: always
     on_failure: always
 before_install: []
