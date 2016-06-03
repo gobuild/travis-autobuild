@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bitly/oauth2_proxy
+  - GITHUB_REPO=fatedier/frp
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - fatedier@gmail.com
     on_success: always
     on_failure: always
 before_install: []
