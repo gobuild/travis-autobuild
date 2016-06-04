@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jorgelbg/sudolikeaboss
+  - GITHUB_REPO=alongubkin/jikan
 notifications:
   email:
     recipients:
-    - betancourt.jorge@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
