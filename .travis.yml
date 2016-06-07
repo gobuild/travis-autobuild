@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=alongubkin/jikan
+  - GITHUB_REPO=nekronhuang/go-update
 notifications:
   email:
     recipients:
