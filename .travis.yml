@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jimeh/dicks
+  - GITHUB_REPO=eBay/fabio
 notifications:
   email:
     recipients:
