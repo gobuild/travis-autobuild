@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=tsileo/blobstash
+  - GITHUB_REPO=nano-projects/nanogo
 notifications:
   email:
     recipients:
-    - t@a4.io
+    - ""
     on_success: always
     on_failure: always
 before_install: []
