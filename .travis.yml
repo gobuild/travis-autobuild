@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jacoblai/Coolpy5Sub
+  - GITHUB_REPO=nsf/gocode
 notifications:
   email:
     recipients:
-    - 5241871@qq.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
