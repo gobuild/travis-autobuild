@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=golang/lint
+  - GITHUB_REPO=newhook/go-symbols
 notifications:
   email:
     recipients:
