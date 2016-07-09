@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=caixw/apidoc
+  - GITHUB_REPO=blackmanbachen/AA
 notifications:
   email:
     recipients:
-    - xnotepad@gmail.com
+    - wen578351314@gmail.com
     on_success: always
     on_failure: always
 before_install: []
