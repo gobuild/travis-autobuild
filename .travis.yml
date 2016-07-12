@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=martinlindhe/validtoml
+  - GITHUB_REPO=cespare/reflex
 notifications:
   email:
     recipients:
