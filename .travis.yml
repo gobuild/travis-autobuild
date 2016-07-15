@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=who246/GoWebSSH
+  - GITHUB_REPO=julor/go-proj
 notifications:
   email:
     recipients:
-    - ""
+    - julor@qq.com
     on_success: always
     on_failure: always
 before_install: []
