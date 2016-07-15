@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=julor/go-proj
+  - GITHUB_REPO=julor/go-proj-4
 notifications:
   email:
     recipients:
