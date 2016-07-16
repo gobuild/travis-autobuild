@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=julor/go-proj-4
+  - GITHUB_REPO=skynetservices/skydns
 notifications:
   email:
     recipients:
-    - julor@qq.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
