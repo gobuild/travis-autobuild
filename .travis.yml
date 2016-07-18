@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=cxjava/qor
+  - GITHUB_REPO=bdevops/scripts
 notifications:
   email:
     recipients:
