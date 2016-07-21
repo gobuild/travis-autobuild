@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jameswelch2-bydeluxe/fasthttp
+  - GITHUB_REPO=bjdgyc/godaemonize
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - bjdgyc@163.com
     on_success: always
     on_failure: always
 before_install: []
