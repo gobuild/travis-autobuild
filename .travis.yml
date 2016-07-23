@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bjdgyc/godaemonize
+  - GITHUB_REPO=beego/bee
 notifications:
   email:
     recipients:
-    - bjdgyc@163.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
