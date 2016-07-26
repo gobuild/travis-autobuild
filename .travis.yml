@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=xor-gate/gohide
+  - GITHUB_REPO=gogits/gogs
 notifications:
   email:
     recipients:
