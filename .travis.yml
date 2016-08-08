@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=sivel/speedtest
+  - GITHUB_REPO=dictyBase/authserver
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - biosidd@gmail.com
     on_success: always
     on_failure: always
 before_install: []
