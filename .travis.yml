@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=huydx/hget
+  - GITHUB_REPO=cyfdecyf/cow
 notifications:
   email:
     recipients:
