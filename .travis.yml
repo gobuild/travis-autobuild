@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=VertebrateResequencing/wr
+  - GITHUB_REPO=bkcsoft/dumbot
 notifications:
   email:
     recipients:
