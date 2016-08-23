@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=beego/bee
+  - GITHUB_REPO=VertebrateResequencing/wr
 notifications:
   email:
     recipients:
