@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=divan/gofresh
+  - GITHUB_REPO=Term1nal/vcp-spam
 notifications:
   email:
     recipients:
