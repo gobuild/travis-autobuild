@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Term1nal/vcp-spam
+  - GITHUB_REPO=miekg/unbound
 notifications:
   email:
     recipients:
