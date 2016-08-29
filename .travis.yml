@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=assad2012/ChinaDNS
+  - GITHUB_REPO=mba811/DNS-Tunnel
 notifications:
   email:
     recipients:
