@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=antham/doc-hunt
+  - GITHUB_REPO=TimothyYe/godns
 notifications:
   email:
     recipients:
