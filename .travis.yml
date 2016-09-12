@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=titanous/heartbleeder
+  - GITHUB_REPO=timothyye/godns
 notifications:
   email:
     recipients:
