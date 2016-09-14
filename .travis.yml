@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bebanjo/esnap
+  - GITHUB_REPO=fuxiaohei/goblog
 notifications:
   email:
     recipients:
