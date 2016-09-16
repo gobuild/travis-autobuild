@@ -8,7 +8,7 @@ env:
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - artemave@gmail.com
     on_success: always
     on_failure: always
 before_install: []
