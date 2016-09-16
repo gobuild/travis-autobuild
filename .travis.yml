@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=artemave/generate-docker-certs
+  - GITHUB_REPO=ipfans/wnacg
 notifications:
   email:
     recipients:
-    - artemave@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
