@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=alexanderteinum/simple-website
+  - GITHUB_REPO=jehiah/json2csv
 notifications:
   email:
     recipients:
