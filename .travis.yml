@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=cosban/gohst
+  - GITHUB_REPO=ccding/go-stun
 notifications:
   email:
     recipients:
