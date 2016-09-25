@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=davecheney/httpstat
+  - GITHUB_REPO=mozillazg/stpinyin
 notifications:
   email:
     recipients:
