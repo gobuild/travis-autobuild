@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=alirezapo/vultrc
+  - GITHUB_REPO=go-toast/toast
 notifications:
   email:
     recipients:
