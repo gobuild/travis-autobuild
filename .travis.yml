@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=msdx321/speedy
+  - GITHUB_REPO=fshh1988/mpsgo
 notifications:
   email:
     recipients:
