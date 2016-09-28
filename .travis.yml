@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=go-toast/toast
+  - GITHUB_REPO=msdx321/speedy
 notifications:
   email:
     recipients:
-    - git@jacobmarshall.co
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
