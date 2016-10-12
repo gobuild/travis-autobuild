@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bdevops/scripts
+  - GITHUB_REPO=VertebrateResequencing/wr
 notifications:
   email:
     recipients:
-    - swh@admpub.com
+    - ""
     on_success: always
     on_failure: always
 before_install: []
