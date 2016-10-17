@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=tombruijn/gorsync
+  - GITHUB_REPO=miaolz123/samaritan
 notifications:
   email:
     recipients:
