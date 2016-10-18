@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Kutear/ZhiHu_Proxy
+  - GITHUB_REPO=Kutear/zhihuproxy
 notifications:
   email:
     recipients:
