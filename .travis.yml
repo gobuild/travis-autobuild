@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Kutear/zhihuproxy
+  - GITHUB_REPO=xiaoov/TrademarkPageSpiders
 notifications:
   email:
     recipients:
