@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=xiaoov/TrademarkPageSpiders
+  - GITHUB_REPO=xiaoov/bianyi
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - xiaoov@vip.qq.com
     on_success: always
     on_failure: always
 before_install: []
