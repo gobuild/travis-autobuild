@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=xiaoov/purifiers
+  - GITHUB_REPO=wasburn/process-exporter
 notifications:
   email:
     recipients:
-    - xiaoov@vip.qq.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
