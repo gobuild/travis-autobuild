@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=rodkranz/char7
+  - GITHUB_REPO=CuberL/goDrClient
 notifications:
   email:
     recipients:
-    - dev.rodrigo.lopes@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
