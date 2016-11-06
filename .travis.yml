@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=CuberL/goDrClient
+  - GITHUB_REPO=rakyll/hey
 notifications:
   email:
     recipients:
-    - guozhealan@qq.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
