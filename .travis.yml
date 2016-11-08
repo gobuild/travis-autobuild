@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=LoudRun/registrator
+  - GITHUB_REPO=peachdocs/peach
 notifications:
   email:
     recipients:
