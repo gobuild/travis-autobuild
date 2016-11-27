@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=woody-wu/deleteImages
+  - GITHUB_REPO=lifei6671/NeteaseCloudMusicFlac
 notifications:
   email:
     recipients:
