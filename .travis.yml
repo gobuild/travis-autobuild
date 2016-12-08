@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Epskampie/goserve
+  - GITHUB_REPO=gloomyzerg/apidoc-plugin-debugtool
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - gloomyzerg@126.com
     on_success: always
     on_failure: always
 before_install: []
