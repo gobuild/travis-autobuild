@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gloomyzerg/authcode
+  - GITHUB_REPO=lorenzobenvenuti/docker-registry-cli
 notifications:
   email:
     recipients:
-    - gloomyzerg@126.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
