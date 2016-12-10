@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Seklfreak/discord-image-downloader-go
+  - GITHUB_REPO=TimothyYe/godns
 notifications:
   email:
     recipients:
