@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=thekvs/microproxy
+  - GITHUB_REPO=simonschmidt/json2csv
 notifications:
   email:
     recipients:
