@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gwoo/gserver
+  - GITHUB_REPO=rakyll/hey
 notifications:
   email:
     recipients:
