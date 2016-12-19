@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=simonschmidt/json2csv
+  - GITHUB_REPO=gwoo/gserver
 notifications:
   email:
     recipients:
