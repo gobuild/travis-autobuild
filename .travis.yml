@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=anacrolix/utp
+  - GITHUB_REPO=nuveo/prest
 notifications:
   email:
     recipients:
