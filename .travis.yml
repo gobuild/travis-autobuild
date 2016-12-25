@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=hygull/ds
+  - GITHUB_REPO=bkmagnetron/awesome-go
 notifications:
   email:
     recipients:
-    - rishikesh0014051992@gmail.com
+    - light.bala@gmail.com
     on_success: always
     on_failure: always
 before_install: []
