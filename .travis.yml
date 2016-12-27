@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=bkmagnetron/awesome-go
+  - GITHUB_REPO=silenceper/gowatch
 notifications:
   email:
     recipients:
-    - light.bala@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
