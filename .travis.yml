@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=silenceper/gowatch
+  - GITHUB_REPO=nats-io/nats-streaming-server
 notifications:
   email:
     recipients:
