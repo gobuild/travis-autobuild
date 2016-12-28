@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=jim3mar/docker-openvpn
+  - GITHUB_REPO=codeskyblue/proxylocal
 notifications:
   email:
     recipients:
