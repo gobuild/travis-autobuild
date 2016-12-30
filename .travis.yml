@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=pebbe/zmq4
+  - GITHUB_REPO=googollee/dnsproxy
 notifications:
   email:
     recipients:
