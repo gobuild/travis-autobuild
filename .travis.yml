@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=gpmgo/gopm
+  - GITHUB_REPO=joeblew99/brazier
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - joeblew99@gmail.com
     on_success: always
     on_failure: always
 before_install: []
