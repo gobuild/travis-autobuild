@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=udzura/httproc
+  - GITHUB_REPO=boppreh/steamgrid
 notifications:
   email:
     recipients:
