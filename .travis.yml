@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=beego/bee
+  - GITHUB_REPO=qq358860528/heka
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - 358860528@qq.com
     on_success: always
     on_failure: always
 before_install: []
