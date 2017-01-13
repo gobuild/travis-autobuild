@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=qq358860528/heka
+  - GITHUB_REPO=robbiet480/cec-web
 notifications:
   email:
     recipients:
-    - 358860528@qq.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
