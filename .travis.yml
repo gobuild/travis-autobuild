@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=Kutear/Fuck-Hard-Code
+  - GITHUB_REPO=codeskyblue/flappy-bird-pygame
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - ""
     on_success: always
     on_failure: always
 before_install: []
