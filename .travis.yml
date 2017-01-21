@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=ginuerzh/gost
+  - GITHUB_REPO=leechristensen/GolangSSHServer
 notifications:
   email:
     recipients:
