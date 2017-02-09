@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=radoondas/jmxproxybeat
+  - GITHUB_REPO=frozzare/serve
 notifications:
   email:
     recipients:
