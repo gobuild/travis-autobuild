@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=frozzare/serve
+  - GITHUB_REPO=zrf-rocket/ovaldb-master
 notifications:
   email:
     recipients:
-    - codeskyblue@gmail.com
+    - rocket_2014@126.com
     on_success: always
     on_failure: always
 before_install: []
