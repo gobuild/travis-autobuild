@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=frozzare/serve
+  - GITHUB_REPO=wallix/awless
 notifications:
   email:
     recipients:
