@@ -4,11 +4,11 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=patelanuj28/reveal.js
+  - GITHUB_REPO=ConradIrwin/aws-name-server
 notifications:
   email:
     recipients:
-    - patelanuj28@gmail.com
+    - codeskyblue@gmail.com
     on_success: always
     on_failure: always
 before_install: []
