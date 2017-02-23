@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=patelanuj28/zoopadi
+  - GITHUB_REPO=patelanuj28/reveal.js
 notifications:
   email:
     recipients:
