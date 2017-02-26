@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=tuxcanfly/wally
+  - GITHUB_REPO=s3git/bt2sum
 notifications:
   email:
     recipients:
