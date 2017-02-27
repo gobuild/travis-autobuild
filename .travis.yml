@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=s3git/bt2sum
+  - GITHUB_REPO=dimiro1/ipe
 notifications:
   email:
     recipients:
