@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=mallowlabs/cronlog
+  - GITHUB_REPO=ipfans/wnacg
 notifications:
   email:
     recipients:
