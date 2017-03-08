@@ -4,7 +4,7 @@ go:
 env:
   global:
   - GIT_BRANCH=
-  - GITHUB_REPO=mpggu/VPlanClient
+  - GITHUB_REPO=allegro/marathon-consul
 notifications:
   email:
     recipients:
